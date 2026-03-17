@@ -1,0 +1,55 @@
+SOURCE: World Health Organization
+DOCUMENT_ID: WHO-HTN-2023
+TITLE: 2023 WHO Guideline for the Pharmacological Treatment of Hypertension in Adults
+
+SECTION: Overview
+Hypertension is defined as a systolic blood pressure (SBP) ≥140 mmHg and/or diastolic blood pressure (DBP) ≥90 mmHg on repeated measurements. It affects approximately 1.28 billion adults worldwide and is a leading modifiable risk factor for cardiovascular disease, stroke, heart failure, and chronic kidney disease. Accurate diagnosis requires proper measurement technique with validated devices and confirmation on at least two separate visits.
+
+SECTION: Classification
+Blood pressure categories in adults (≥18 years):
+- Normal BP: SBP <120 mmHg AND DBP <80 mmHg
+- Elevated BP: SBP 120–129 mmHg AND DBP <80 mmHg
+- Stage 1 Hypertension: SBP 130–139 mmHg OR DBP 80–89 mmHg
+- Stage 2 Hypertension: SBP ≥140 mmHg OR DBP ≥90 mmHg
+- Hypertensive Crisis: SBP >180 mmHg and/or DBP >120 mmHg
+Hypertensive urgency involves severely elevated BP without acute end-organ damage. Hypertensive emergency involves severely elevated BP with acute end-organ damage (encephalopathy, AKI, acute MI, aortic dissection).
+
+SECTION: Diagnosis and Evaluation
+Confirmed hypertension diagnosis requires elevated BP on ≥2 visits or ABPM/HBPM evidence. Initial workup includes urinalysis, eGFR, electrolytes, fasting glucose, lipid panel, ECG, and fundoscopy. Secondary causes to exclude: primary aldosteronism, renovascular disease, obstructive sleep apnea, pheochromocytoma, Cushing syndrome, thyroid disorders, coarctation of the aorta. White coat hypertension (elevated office BP with normal ambulatory BP) should be differentiated from masked hypertension.
+
+SECTION: Non-Pharmacological Treatment
+Lifestyle modifications are first-line for all hypertension stages:
+- Dietary sodium reduction to <2 g/day (5 g salt)
+- DASH diet (rich in fruits, vegetables, low-fat dairy)
+- Aerobic exercise: 150+ minutes moderate or 75 minutes vigorous activity per week
+- Weight reduction: 1 mmHg reduction per 1 kg weight loss
+- Alcohol limitation: <14 units/week men, <8 units/week women
+- Smoking cessation
+These measures can reduce SBP by 4–11 mmHg. Lifestyle modification for 3 months before starting pharmacotherapy in Stage 1 without high cardiovascular risk.
+
+SECTION: Pharmacological Treatment — First-Line Agents
+Four major drug classes have Level A evidence for first-line use:
+1. ACE inhibitors (ACEi): ramipril, enalapril, lisinopril — preferred in diabetes, CKD, heart failure. Contraindicated in pregnancy, bilateral renal artery stenosis. Monitor for cough (15% incidence), angioedema (rare).
+2. Angiotensin Receptor Blockers (ARBs): losartan, valsartan, telmisartan — use when ACEi not tolerated. Same indications as ACEi.
+3. Calcium Channel Blockers (CCBs): amlodipine, nifedipine — preferred in elderly, isolated systolic hypertension, angina. Associated with peripheral edema.
+4. Thiazide diuretics: chlorthalidone, hydrochlorothiazide, indapamide — preferred in Black patients, isolated systolic hypertension, heart failure with volume overload. Monitor electrolytes.
+ACEi and ARBs should not be combined (increased risk of hypotension, hyperkalemia, AKI).
+
+SECTION: Combination Therapy
+Combination therapy with ≥2 agents recommended when BP is >20/10 mmHg above target. Preferred combinations:
+- ACEi/ARB + CCB (most evidence, preferred first combination)
+- ACEi/ARB + thiazide diuretic
+- CCB + thiazide diuretic
+Triple therapy: ACEi/ARB + CCB + thiazide diuretic for resistant hypertension. Spironolactone 25–50 mg/day is the fourth-line agent of choice in resistant hypertension. Single-pill combinations (SPCs) improve adherence.
+
+SECTION: BP Targets
+General adults: SBP target 130 mmHg (if tolerated), DBP <80 mmHg. Elderly (≥65 years): SBP 130–139 mmHg. High cardiovascular risk: SBP <130 mmHg. CKD without proteinuria: <140/90 mmHg. CKD with proteinuria (>300 mg/day): <130/80 mmHg. Diabetes: <130/80 mmHg. Stroke/TIA: <130/80 mmHg. Pregnancy: 110–140/80 mmHg systolic range.
+
+SECTION: Hypertensive Emergencies
+Hypertensive emergency treatment: IV labetalol, nicardipine, or clevidipine are preferred agents. Target: reduce MAP by no more than 25% in the first hour, then to 160/100 mmHg within 2–6 hours. Exceptions: ischemic stroke (permissive hypertension unless thrombolysis), aortic dissection (SBP target <120 mmHg within 20 minutes). Oral nifedipine should be avoided (rapid uncontrolled BP drop). ICU admission required.
+
+SECTION: Special Populations
+Pregnancy: labetalol (oral/IV), methyldopa, and nifedipine are safe. ACEi, ARBs, and direct renin inhibitors are contraindicated. Preeclampsia: magnesium sulfate for seizure prophylaxis. Elderly: start with low doses, beware orthostatic hypotension. CKD: ACEi/ARB preferred for nephroprotection; avoid NSAIDs. Diabetes: ACEi/ARB preferred to reduce proteinuria and slow CKD progression. Heart failure with reduced EF: ACEi/ARB + beta-blocker + diuretic + MRA.
+
+SECTION: Follow-Up and Monitoring
+Recheck BP within 1 month of initiating/changing therapy. Once stable on target, monitor every 3–6 months. Annual labs: eGFR, potassium (especially on ACEi/ARB/diuretics), fasting glucose, lipids. ECG every 1–2 years. Assess adherence at each visit. Ambulatory BP monitoring (ABPM) is the gold standard for diagnosis and monitoring. Self-measured BP at home (HBPM) is an acceptable alternative.

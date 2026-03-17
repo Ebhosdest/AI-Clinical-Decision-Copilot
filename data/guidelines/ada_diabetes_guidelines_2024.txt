@@ -1,0 +1,55 @@
+SOURCE: American Diabetes Association
+DOCUMENT_ID: ADA-DM-2024
+TITLE: 2024 ADA Standards of Care in Diabetes
+
+SECTION: Overview
+Diabetes mellitus is a group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both. Type 1 diabetes (T1DM) results from autoimmune destruction of pancreatic beta cells. Type 2 diabetes (T2DM) accounts for 90–95% of cases and results from progressive loss of adequate insulin secretion against a background of insulin resistance. Prediabetes (impaired fasting glucose or impaired glucose tolerance) precedes T2DM and is itself associated with cardiovascular risk.
+
+SECTION: Diagnosis
+Diabetes diagnosis criteria (any one sufficient, confirmed on repeat):
+- Fasting plasma glucose (FPG) ≥126 mg/dL (7.0 mmol/L) after ≥8 hours fast
+- 2-hour plasma glucose ≥200 mg/dL (11.1 mmol/L) during 75g OGTT
+- HbA1c ≥6.5% (48 mmol/mol) — validated assay
+- Random glucose ≥200 mg/dL with classic hyperglycemic symptoms
+Prediabetes: FPG 100–125 mg/dL, 2h PG 140–199 mg/dL, or HbA1c 5.7–6.4%.
+Screening recommended every 3 years for adults ≥35 years, or any age with overweight/obesity plus one or more risk factors.
+
+SECTION: Glycemic Targets
+HbA1c target <7.0% for most non-pregnant adults. Less stringent target (7.5–8.0%) for elderly patients with multiple comorbidities, limited life expectancy, or high hypoglycemia risk. More stringent target (<6.5%) may be appropriate in young patients with short disease duration, no CVD, and low hypoglycemia risk. Time in Range (TIR) goal: >70% for glucose 70–180 mg/dL using continuous glucose monitoring (CGM). Time Below Range (TBR) <4% for glucose <70 mg/dL; <1% for glucose <54 mg/dL.
+
+SECTION: Type 1 Diabetes Management
+Multiple daily injections (MDI) or continuous subcutaneous insulin infusion (CSII/insulin pump) are the standard of care. Basal-bolus insulin regimen: long-acting insulin (glargine, detemir, degludec) once or twice daily plus rapid-acting insulin (aspart, lispro, glulisine) at meals. Insulin-to-carbohydrate ratio and correction factor individualized. Hybrid closed-loop systems (artificial pancreas) are preferred when available. CGM use strongly recommended for all T1DM patients. Celiac disease and autoimmune thyroid disease screening recommended.
+
+SECTION: Type 2 Diabetes — First-Line Therapy
+Metformin remains first-line pharmacotherapy for T2DM in the absence of contraindications. Starting dose 500 mg once or twice daily with meals, titrate to 1000 mg twice daily over 4–8 weeks. Contraindicated with eGFR <30 mL/min/1.73m²; use caution with eGFR 30–45. Lifestyle modification (MNT + physical activity) is essential and should accompany all pharmacotherapy. Weight loss of 5–10% improves glycemic control and cardiovascular risk factors.
+
+SECTION: Cardiovascular Risk Reduction
+Patients with established ASCVD or high cardiovascular risk: SGLT2 inhibitors (empagliflozin, canagliflozin, dapagliflozin) or GLP-1 receptor agonists (liraglutide, semaglutide, dulaglutide) with proven CV benefit should be added regardless of HbA1c. SGLT2 inhibitors are preferred in patients with heart failure (particularly HFrEF) or CKD (eGFR 20–60 mL/min/1.73m²). GLP-1 RAs are preferred in patients where weight loss is a priority or where ASCVD predominates. Combination SGLT2i + GLP-1 RA may be used for additive benefits.
+
+SECTION: Intensification of Therapy
+If HbA1c remains above target after 3 months on metformin, add second agent based on patient profile:
+- SGLT2 inhibitor: if ASCVD, HF, or CKD present
+- GLP-1 RA: if ASCVD or weight loss needed
+- DPP-4 inhibitor: if HbA1c near target, well tolerated, low hypoglycemia risk
+- Sulfonylurea: low cost, effective, but hypoglycemia risk
+- Basal insulin: most effective for HbA1c reduction, especially if >9%
+GLP-1 RA preferred over insulin when possible due to weight benefit and lower hypoglycemia risk.
+
+SECTION: Insulin Therapy in T2DM
+Initiate insulin therapy when HbA1c >10% or symptomatic hyperglycemia. Basal insulin starting dose: 10 units/day or 0.1–0.2 units/kg/day. Titrate by 2 units every 3 days targeting fasting glucose 80–130 mg/dL. Basal-plus (adding one prandial dose) or basal-bolus for suboptimal control on basal insulin alone. Premixed insulins are an alternative for patients with regular meal schedules. Degludec (Tresiba) and glargine U-300 have lower nocturnal hypoglycemia rates vs. NPH.
+
+SECTION: Hypertension and Lipids in Diabetes
+BP target: <130/80 mmHg for most T2DM patients. ACEi or ARB first-line for diabetic nephropathy (proteinuria >300 mg/day). Statin therapy: moderate-intensity (atorvastatin 10–20 mg) for all diabetics 40–75 years; high-intensity (atorvastatin 40–80 mg) if ASCVD or 10-year CVD risk ≥20%. LDL target: <100 mg/dL for diabetes without ASCVD; <70 mg/dL with ASCVD. Add ezetimibe or PCSK9 inhibitor if LDL not at target on max statin. Aspirin 75–162 mg/day for secondary prevention of ASCVD.
+
+SECTION: Diabetic Kidney Disease
+Screen annually with urine albumin-creatinine ratio (UACR) and eGFR. Categories: normoalbuminuria (<30 mg/g), moderately increased albuminuria (30–300 mg/g), severely increased (>300 mg/g). ACEi/ARB indicated for UACR >300 mg/g or eGFR 25–75 with UACR >30 mg/g. Finerenone (MRA) reduces CKD progression and CV events in T2DM with CKD. Avoid nephrotoxic agents. Metformin: reduce dose at eGFR 30–45, stop at eGFR <30. SGLT2 inhibitors: use dapagliflozin or canagliflozin for CKD benefit with eGFR ≥20.
+
+SECTION: Hypoglycemia Management
+Hypoglycemia classification:
+- Level 1: glucose <70 mg/dL (alert value)
+- Level 2: glucose <54 mg/dL (clinically significant)
+- Level 3: severe cognitive impairment requiring external assistance
+Rule of 15: 15g fast-acting carbohydrate (glucose tablets, juice), recheck in 15 min, repeat if still <70 mg/dL. Glucagon kit (injectable or nasal) prescribed to all insulin-using patients. Severe hypoglycemia: IV dextrose (25 g = 50 mL D50W) for inpatients. Risk factors: renal impairment, irregular meals, excessive alcohol, beta-blockers masking symptoms, older age.
+
+SECTION: Diabetes Technology
+CGM reduces HbA1c and hypoglycemia in both T1DM and T2DM on insulin. Real-time CGM preferred; intermittently scanned CGM (isCGM) is an alternative. Insulin pumps (CSII) reduce HbA1c and hypoglycemia vs. MDI in T1DM. Hybrid closed-loop systems (HCL) automate basal insulin delivery. Connected insulin pens track dose timing and amount. Telehealth and digital health tools support self-management and clinical decision-making.

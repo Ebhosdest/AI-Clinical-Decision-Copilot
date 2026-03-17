@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: clinical-decision-copilot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: EMBEDDING_MODEL
+        value: text-embedding-3-small
+      - key: CHAT_MODEL
+        value: gpt-4o

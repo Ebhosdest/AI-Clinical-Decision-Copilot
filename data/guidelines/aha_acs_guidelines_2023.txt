@@ -1,0 +1,33 @@
+SOURCE: American Heart Association
+DOCUMENT_ID: AHA-ACS-2023
+TITLE: 2023 AHA/ACC Guideline for the Diagnosis and Management of Acute Coronary Syndromes
+
+SECTION: Overview
+Acute coronary syndrome (ACS) encompasses a spectrum of conditions including unstable angina (UA), non-ST-elevation myocardial infarction (NSTEMI), and ST-elevation myocardial infarction (STEMI). Early recognition and risk stratification are critical to improving outcomes. The pathophysiology involves plaque rupture or erosion with superimposed thrombus formation leading to partial or complete coronary artery occlusion.
+
+SECTION: Clinical Presentation
+Typical ACS presentation includes chest pain or pressure, often radiating to the left arm, jaw, or back, lasting more than 20 minutes. Diaphoresis, nausea, and dyspnea are common associated symptoms. Atypical presentations occur more frequently in women, elderly patients, and diabetics, who may present with fatigue, epigastric discomfort, or syncope without chest pain. Any patient presenting with suspected ACS should have an ECG obtained within 10 minutes of arrival.
+
+SECTION: Diagnosis
+Initial evaluation includes 12-lead ECG interpretation and high-sensitivity cardiac troponin (hs-cTn) measurement. STEMI is defined by new ST-elevation ≥1 mm in ≥2 contiguous limb leads or ≥2 mm in contiguous precordial leads, or new left bundle branch block (LBBB). NSTEMI is characterized by elevated troponin without ST-elevation. Serial troponin measurement at 0/1 hour or 0/3 hour algorithms are recommended for rapid rule-in/rule-out. ECG findings of ST depression ≥0.5 mm in ≥2 contiguous leads suggest subendocardial ischemia.
+
+SECTION: Risk Stratification
+The GRACE 2.0 risk score is recommended for all NSTEMI/UA patients. High-risk features include dynamic ECG changes, recurrent symptoms at rest, elevated troponin, hemodynamic instability, and new mitral regurgitation. TIMI and GRACE scores predict 30-day mortality and guide timing of invasive strategy. Immediate invasive strategy (<2 hours) is indicated for refractory angina, hemodynamic instability, or signs of heart failure.
+
+SECTION: STEMI Management
+Primary percutaneous coronary intervention (PCI) is the preferred reperfusion strategy for STEMI when achievable within 120 minutes of first medical contact (FMC). Door-to-balloon time should be ≤90 minutes. Fibrinolytic therapy is indicated when PCI cannot be performed within 120 minutes of FMC. Antiplatelet therapy with aspirin 162–325 mg loading dose plus a P2Y12 inhibitor (ticagrelor or prasugrel preferred over clopidogrel) should be administered immediately. Anticoagulation with unfractionated heparin, bivalirudin, or enoxaparin is recommended.
+
+SECTION: NSTEMI/UA Management
+An early invasive strategy within 24 hours is recommended for high-risk NSTEMI patients. Dual antiplatelet therapy (DAPT) with aspirin plus a P2Y12 inhibitor should be initiated. Ticagrelor 180 mg loading dose then 90 mg twice daily is preferred. Beta-blockers should be initiated within 24 hours in hemodynamically stable patients. ACE inhibitors or ARBs are indicated for patients with reduced LVEF, hypertension, or diabetes. High-intensity statin therapy should be initiated or continued regardless of baseline LDL.
+
+SECTION: Pharmacotherapy
+Anticoagulation options during PCI include unfractionated heparin (UFH) 70–100 units/kg IV bolus, bivalirudin 0.75 mg/kg IV bolus then 1.75 mg/kg/h infusion, or enoxaparin 0.5 mg/kg IV. Glycoprotein IIb/IIIa inhibitors (eptifibatide, tirofiban) may be considered as bailout therapy during PCI. Morphine use should be avoided as it reduces antiplatelet drug absorption. Oxygen therapy is recommended only if SpO2 <90%.
+
+SECTION: Secondary Prevention
+Long-term DAPT duration after PCI: minimum 12 months for ACS regardless of stent type. High-intensity statin therapy (atorvastatin 40–80 mg or rosuvastatin 20–40 mg) targets LDL <70 mg/dL or ≥50% reduction. Beta-blockers continue for minimum 3 years post-MI with reduced LVEF. Cardiac rehabilitation is strongly recommended (Class I). ACE inhibitor/ARB therapy is continued indefinitely in patients with LVEF ≤40%.
+
+SECTION: Complications
+Major complications of ACS include cardiogenic shock, acute heart failure, ventricular arrhythmias, mechanical complications (free wall rupture, ventricular septal defect, papillary muscle rupture), and post-infarction pericarditis (Dressler syndrome). Cardiogenic shock requires immediate revascularization. Temporary mechanical circulatory support (intra-aortic balloon pump, Impella) may be considered. VF/VT requires immediate defibrillation with 200 J biphasic shock.
+
+SECTION: Special Populations
+In elderly patients (>75 years), lower loading doses of antiplatelet agents and anticoagulants may be appropriate due to increased bleeding risk. Renal impairment requires dose adjustment of renally cleared drugs. In pregnancy, primary PCI is the preferred reperfusion strategy. Women presenting with ACS should receive the same evidence-based therapies as men. Patients with prior stroke have higher risk of intracranial hemorrhage with fibrinolytic therapy.
